@@ -23,6 +23,7 @@ gem 'jquery-rails'
 
 gem "rspec-rails", group: [:test, :development]
 gem "factory_girl_rails", group: [:test, :development]
+gem "devise"
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
